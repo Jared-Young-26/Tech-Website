@@ -43,4 +43,6 @@ This project is deployed using Render as a Node.js web service. Render installs 
 
 This project intentionally avoids frontend frameworks in order to focus on fundamental web development concepts such as server-side routing, static asset handling, and client-side interactivity.
 
+Site Deployed on Render: https://tech-website-tyuy.onrender.com/
+
 © 2026 Artificial Instinct
