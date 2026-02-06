@@ -1,0 +1,13 @@
+{
+    "name": "artificial-instinct-website",
+    "version": "1.0.0",
+    "description": "Artificial Instinct company website",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.18.2"
+    }
+  }
+  
